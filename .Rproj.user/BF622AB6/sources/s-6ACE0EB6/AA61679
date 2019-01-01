@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1546140290109.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AA61679",
+    "lastKnownWriteTime" : 1546145244,
+    "last_content_update" : 1546145244140,
+    "path" : "C:/Users/Ryan/Desktop/R Projects/data_processing_R/data_preprocessing.R",
+    "project_path" : "data_preprocessing.R",
+    "properties" : {
+        "cursorPosition" : "14,37",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
