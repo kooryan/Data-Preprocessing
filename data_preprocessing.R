@@ -21,9 +21,11 @@ dataset$Country = factor(dataset$Country,
 dataset$Purchased = factor(dataset$Purchased,
                            levels = c('No', 'Yes'),
                            labels = c(0, 1)) 
+############################################### our template
 
 # Splitting the Data set into the Training and Test set
 # install.packages('caTools')
+library(caTools)
 set.seed(123)
 split = sample.split(dataset$Purchased, SplitRatio = 0.8) # ratio between the set of observations that goes to the training set
 # the rest goes to the test set
